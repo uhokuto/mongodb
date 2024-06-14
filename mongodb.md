@@ -23,6 +23,7 @@ mongodump --host=localhost --port=27017 --out=C:\Users\uhoku\Dropbox\mongo_backu
 mongorestore C:\Users\uhoku\Dropbox\mongo_backup
 
 参考記事  
-https://nodejs.keicode.com/mongodb/backup-and-restore.php
+https://nodejs.keicode.com/mongodb/backup-and-restore.php  
+
 
 4. 前の世代のPCから移行したmongodb dumpは、mongo_backup に入っている
