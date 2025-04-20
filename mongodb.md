@@ -12,6 +12,14 @@ https://note.com/mega_gorilla/n/ne318906c95ad
 
 https://note.com/mega_gorilla/n/ne318906c95ad
 
+4. mongo clientからのデータベース操作
+基本はpythonからダイレクトに操作するが、データベースの一覧、削除など、たまに使う。
+コマンド集は以下の通り。
+
+https://www.wakuwakubank.com/posts/784-server-mongodb-introduction/
+
+
+
 # dump restoreツールのインストール
 1. mongodbツールダウンロードサイトから"MongoDB Command Line Database Tools Download"をダウンロード  
 https://www.mongodb.com/try/download/database-tools  
